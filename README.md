@@ -116,3 +116,6 @@ Completa los métodos marcados con `TODO` siguiendo el orden propuesto y respeta
 - Control del flujo de juego (inicialización, loop principal y cierre limpio).
 - Gestión de colisiones y actualización de puntuación/vidas.
 - Apartado opcional: se valorará positivamente añadir niveles extra, mejoras visuales o efectos de sonido siempre que no rompan la estructura base.
+
+## Uso de IA
+He empleado la IA para algunas funciones concretas como por ejemplo la de las colisiones, ya que no comprendía correctamente como hacerlo.
